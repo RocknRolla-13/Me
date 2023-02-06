@@ -6,4 +6,6 @@
 - Я безумно люблю футбол
 - У меня есть 2 кота и крыса
 
-# ![This is an image](https://photos.google.com/photo/AF1QipPcl3jDjTttlLu9Maa-BnZpFVwngXnXVhhZlTre)
+# ![This is an image][def]
+
+[def]: https://photos.google.com/photo/AF1QipPcl3jDjTttlLu9Maa-BnZpFVwngXnXVhhZlTre
